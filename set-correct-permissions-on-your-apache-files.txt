@@ -1,0 +1,40 @@
+One final point in terms of security...
+
+ 
+
+Apache usually runs under a non-privileged account (httpd, www-data, etc - depending upon your distro) so this account needs:﻿
+read access to any website content
+read and execute access to any website directories (execute priv = directory traversal permission)
+write access to any directories that it needs to amend content in (eg: caches, config dirs, upload dirs).
+ 
+
+The first two are quite easy: chmod 644 on any files and 755 on any directories and you're away. However, this also means that anyone else on the server can access website content, meaning they could be exposed to confidential information (such as database credentials, backdoor passwords, etc).
+
+ 
+
+Rather than set the content world-readable, two alternative options are:
+
+set the GROUP of the files/directories to match the group of the webserver account (www-data or the httpd group) then set file permissions to 640 and dirs to 750
+Install suPHP on Apache, and set the content back to owner-only accessible.
+ 
+
+The first is probably a quick and dirty method of doing it, but restricts the content to read/write for owner and read-only for Apache (and nothing for anyone else), thus preventing anyone outside of the website owner and apache to access that content.
+
+ 
+
+The second is preferable - it makes Apache perform a "su" to the website owner, accessing it as though it owned the content. This means that all cache data and config files just need to be read/writeable by the owner - no messing about with allowing apache groups or world read-access.
+
+ 
+
+So why not go for that latter option all the time? There are some downsides:
+
+it requires some configuration at the Apache end, in particular a custom php.ini file per-site
+it requires setting file/dir permissions carefully, since suPHP will abort serving up content if the mode (owner/group/permissions) do not exactly match that in the suphp config file
+there is an additional processing overhead (apache needs to keep switching user prior to accessing/delivering content) which can impact busy sites.
+ 
+
+The alternative is that you set all content to 777 and not worry about it, which is what a lot of new web administrators do. And then they wonder how they got cracked, why they're serving up trojans and exploits on their websites, and how their server has become part of a spam-spewing botnet. I'm afraid "but I didn't know" isn't an adequate defence. "But I didn't research and thus permitted something easily exploitable to be let loose on the internet" is more accurate.
+
+ 
+
+Practise safe web administration, people. You know it makes sense!
