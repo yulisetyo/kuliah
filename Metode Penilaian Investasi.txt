@@ -1,0 +1,125 @@
+Metode Penilaian Investasi
+Layak atau tidaknya sebuah keputusan investasi dilakukan bisa dianalisis dengan berbagai kriteria. Penilaian investasi yang "layak" bisa diberikan dengan membandingkan dengan kecenderungan rata-rata industri sejenis.
+
+Ditinjau dari sudut pandang keuangan, ada beberapa metode penilaian investasi yang bisa dipakai untuk menentukan apakah suatu investasi layak atau tidak layak dilakukan sebuah perusahaan.
+
+Masing-masing metode mempunyai kelebihan dan kelemahan. Metode yang dipakai tergantung dari kebutuhan tiap-tiap perusahaan. Metode yang mana yang cocok untuk digunakan oleh perusahaan.
+
+Dalam mengukur sebuah investasi sebaiknya tidak hanya mengandalkan satu metode saja, menggunakan beberapa metode sekaligus lebih baik. Semakin banyak metode yang dipakai, maka akan semakin banyak gambaran yang lebih lengkap. Informasi yang didapat lebih banyak. Sehingga keputusan investasi bisa lebih tertarget dan menghasilkan keuntungan yang maksimal.
+
+Beberapa metode yang umum dipakai perusahaan adalah sebagai berikut :
+
+    Metode Net Present Value (NPV)
+    Metoe Payback Period (PP)
+    Metode Profotability Index (PI)
+    Metode Average Rate of Return (ARR)
+    Metode Internal Rate of Return (IRR)
+
+
+1. Metode Net Present Value (NPV)
+Metode penilaian investasi net present value (NPV) adalah selisih antara nilai sekarang dari investasi dengan nilai sekarang dari penerimaan uang kas bersih dimasa mendatang.
+
+Dalam perhitungan net present value diperlukan data-data mengenai perkiaraan biaya operasi dan pemeliharaan, biaya investasi dan prakiraan keuntungan dari investasi yang sedang direncanakan.
+
+Keputusan dengan mengguanakan analisa NPV ini ada dua kemungkinan.
+
+    Apabila selisih antara nilai sekarang dari arus kas lebih besar yang berarti nilai NPV positif. Maka investasi tersebut layak untuk dijalankan.
+
+    Apabila selisih antara nilai sekarang dari arus kas lebih kecil yang berarti nilai NPV negatif. Maka investasi tersebut tidak layak untuk dijalankan.
+
+Kelebihan Analisa Metode Net Present Value.
+
+    Nilai waktu dari uang turut diperhitungkan
+    Nilai sisa proyek/investasi turut diperhitungkan
+    Arus kas selama masa investasi proyek turut diperhitungkan
+
+Kekurangan Analisa Metode Net Present Value
+
+    Apabila proyek mempunyai nilai investasi yang beda, dan jangka waktu yang juga berbeda. Maka nilai NPV yang lebih tinggi belum tentu menunjukkan investasi tersebut lebih baik
+    Manajer keuangan harus bisa menghitung tingkat biaya modal selama masa investasi
+    Kelayakan investasi tidak hanya dipengaruhi oleh besar kecilnya arus kas. Faktor usia lamanya investasi juga bisa mempengaruhi.
+
+
+2. Metode Payback Period (PP)
+Analisa metode penilaian investasi payback period adalah sebuah metode untuk mengetahui kapan waktu kembalinya dana investasi yang telah dikeluarkan. Payback period mengukur lamanya dana investasi yang dikeluarkan perusahaan akan kembali seluruhnya seperti awal mula.
+
+Dengan analisa metode payback period akan diketahui berapa lama sebuah investasi bisa dikembalikan ketika terjadi kondisi BEP (break even point) atau titik impas.
+
+Perhitungan metode ini diakukan dengan menghitung periode waktu yang dibutuhkan ketika jumlah arus kas yang masuk sama dengan jumlah arus kas yang keluar.
+
+Secara umum, apabila hasil payback periode menunjukkan periode pengembalian yang lebih cepat. Maka investasi tersebut layak untuk dijalankan. Begitu juga sebaliknya, apabila payback period menunjukkan periode pengembalian yang lebih lama. Maka investasi tersebut tidak layak untuk dijalankan.
+
+Apabila ada lebih dari satu jenis investasi yang ditawarkan, periode pengembalian yang paling singkat yang seharusnya dipilih.
+
+Analisa metode payback period hanya disarankan untuk memperoleh tambahan informasi mengenai kecepatan waktu pengembalian dana yang akan diiinvestasikan. Seperti perusahaan teknologi contohnya handphone yang setiap bulan bahkan muncul produk baru yang membuat produk sebelumnya menjadi usang. Padahal masih baru.
+
++ Kelebihan Payback Period
+    Payback period memberi informasi tentang kapan lamanya dana investasi akan kembali.
+    Payback period memberi informasi tentang jangka waktu break even poin
+    Payback period bisa menjadi alat pertimbangan sebuah resiko. Semakin pendek payback period, semakin kecil resiko kerugian. Begitu juga sebaliknya.
+    Payback period bisa membandingkan dua jenis investasi yang mempunyai return dan resiko yang sama dengan hanya melihat lamanya tempo pengembalian atas investasi. Payback period yang lebih pendek itulah yang disarankan untuk dipilih.
+    Dampak investasi yang berhubungan dengan masalah likuiditas perusahaan bisa diminialisir.
+
+- Kekurangan Payback Period
+    Payback period mengabaikan proceeds atau penerimaan investasi yang diperoleh setelah masa payback period tercapai.
+    Payback period tidak memperhitungkan nilai waktu dari uang (value of money)
+    Payback period tidak memiliki informasi tentang tambahan value yang bisa diterima perusahaan.
+    Payback period hanya mengukur rentang waktu kembalinya dana investasi. Tidak menganalisa keuntungan investasi/proyek pembangunan yang sudah direncanakan.
+
+
+3. Metode Profitability Index (PI)
+Analisa metode penilaian investasi profitability index (PI) membandingkan antara nilai arus kas dimasa mendatang dengan nilai pengeluaran investasi yang sekarang.
+
+Profitability index dikenal juga dengan nama profit investment ratio (rasio laba investasi) dan value investment ratio (rasio investasi nilai).
+
+Apabila profitability Index hasilnya lebih besar dari 1, Investasi tersebut layak untuk diambil. Semakin besar angkanya, maka investasi tersebut semakin layak.
+
+Kelebihan Profitability Index
+    Profitability index memberikan informasi persentase arus kas dimasa mendatang dengan aliran kas awal (cash initial)
+    Profitability index memperhitungkan biaya modal (cost of capital)
+    Profitability index memperhitungkan semua arus kas
+    Profitability index memperhatikan nilai waktu dari uang (time value of money)
+
+Kekurangan Profitability Index
+    Profitability index tidak menginformasikan tentang return suatu proyek investasi
+    Profitability index tidak memiliki infomasi tentang resiko investasi
+    Tidak menginformasikan apakah sebuah investasi memberikan keuntungan bagi perusahaan
+    Untuk menghitung profitability index dibutuhkan biaya modal 
+
+
+4. Metode Average Rate of Return (ARR)
+Metode penilaian investasi average rate of return ini menilai seberapa besar keuntungan dari sebuah investasi. Keuntungan yang dimaksud adalah laba bersih setelah pajak yang dibandingkan dengan nilai rata-rata dari investasi.
+
+Jadi ARR diukur dari laba perusahaan. Bukan arus kas investasi perusahaan.
+
+Apabila hasil perhitungan angka ARR lebih besar daripada tingkat return yang diisyaratkan. Maka investasi ini layak untuk lakukan. Namun apabila yang terjadi sebaliknya, maka investasi tersebut tidak layak untuk dijalankan.
+
+Kelebihan Average Rate of Return
+    Metode ARR menggunakan data-data akuntansi yang telah tersedia. Tidak diperlukan tambahan perhitungan
+    Sebagai alat ukur bahwa investasi baru tidak berpengaruh negatif terhadap laba perusahaan.
+    Mudah dimengerti. Sangat sederhana. Cukup dengan melihat laporan laba rugi perusahaan.
+
+Kekurangan Average Rate of Return
+    Metode ARR mengabaikan nilai waktu dari uang (time value of money)
+    Pendekatan yang digunakan jangka pendek. Angka-angka yang digunakan saat ini bisa menyesatkan diwaktu yang akan datang
+    Terlalu memfokuskan pada nominal laba akuntansi. Mengabaikan aliran arus kas dari investasi yang dijalankan.
+    Jangka waktu investasi tidak diperhitungkan.
+
+
+5. Metode Internal Rate of Return (IRR)
+Analisa metode penilaian Internal Rate of Return (IRR) adalah metode analisa investasi dengan menghitung tingkat suku bunga yang menyamakan present value (nilai sekarang) investasi saat ini dengan present value dari penerimaan arus kas dimasa yang akan datang.
+
+Metode IRR ini mungkin metode yang paling sering dilakukan. Mungkin karena mudah digunakan dan banyak yang beranggapan dan percaya bahwa perhitungan IRR adalah hitungan yang menunjukkan tingkat return yang sebenarnya.
+
+Kelebihan Internal Rate of Return
+    Metode IRR tidak mengabaikan nilai waktu dari uang
+    Dasar perhitungan menggunakan aliran arus kas.
+    Tidak berefek pada aliran arus kas selama periode investasi
+    Hasil perhitungan dalam bentuk prosentase. Pengambilan keputusan investasi bisa membuat prakiraan apabila discount rate tidak diketahui.
+    Metode IRR lebih mengutamakan cash initial atau kas awal daripada arus kas belakangan
+
+Kekurangan Internal Rate of Return
+    Membutuhkan perhitungan biaya modal yang menjadi batas terbawah dari nilai yang kemungkinan bisa dicapai
+    Perhitungan IRR lebih rumit dibandingan metode yang lain. Harus trial and error apabila tidak menggunakan software.
+    Tidak dapat membedakan antara proyek/investasi yang memiliki perbedaan dalam ukuran dan keadaan investasi. 
+    Dalam perhitungan bisa menghasilkan hasil IRR ganda atau bahkan tidak menghasilkan nilai IRR sama sekali.
