@@ -1,0 +1,78 @@
+jenis-jenis penelitian
+ berdasarkan kegunaannya
+  -penelitian dasar murni, adalah setiap penelitian yang bertujuan untuk meningkatkan kemampuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu sehingga kegunaan hasil penelitian tidak segera dipakai, namun untuk waktu jangka panjang akan segera dipakai
+  -penelitian terapan, adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan suatu tujuan praktis sehingga hasilnya diharapkan segera dapat dipakai untuk keperluan praktis
+
+ berdasarkan metode
+  -penelitian Historis yang bertujuan untuk membuat rekonstruksi masa lampau secara sistematis dan obyektif
+  -penelitian Deskriptif yang yang bertujuan untuk membuat deskripsi secara sistematis, faktual, dan akurat mengenai fakta dan sifat populasi
+  -penelitian Perkembangan yang bertujuan untuk menyelidiki pola dan urutan pertumbuhan dan/atau perubahan sebagai fungsi waktu.
+  -penelitian Kasus/Lapangan yang bertujuan untuk mempelajari secara intensif latar belakang keadaan sekarang dan interaksi lingkungansuatu obyek
+  -penelitian Korelasional yang bertujuan untuk mengkaji tingkat keterkaitan antara variasi suatu faktor dengan variasi faktor lain berdasarkan koefisien korelasi
+  -penelitian Eksperimental suguhan yang bertujuan untuk menyelidiki kemungkinan hubungan sebab akibat dengan melakukan kontrol/kendali
+  -penelitian Eksperimental semu yang bertujuan untuk mengkaji kemungkinan hubungan sebab akibat dalam keadaan yang tidak memungkinkan ada kontrol/kendali, tapi dapat diperoleh informasi pengganti bagi situasi dengan pengendalian
+  -penelitian Kausal-komparatif yang bertujuan untuk menyelidiki kemungkinan hubungan sebab-akibat, tapi tidak dengan jalan eksperimen tetapi dilakukan dengan pengamatan terhadap data dari faktor yang diduga menjadi penyebab, sebagai pembanding
+  -penelitian Tindakan yang bertujuan untuk mengembangkan keterampilan baru atau pendekatan baru dan diterapkan langsung serta dikaji hasilnya
+
+ berdasarkan jenis data dan analisisnya
+  -penelitian kualitatif adalah suatu proses penelitian dan pemahaman yang berdasarkan pada metodologi yang menyelidiki suatu fenomena sosial dan masalah manusia. Penelitian yang menggunakan data kualitatif (data yang berbentuk data, kalimat, skema, dan gambar). Pada pendekatan ini, peneliti membuat suatu gambaran yang kompleks, meneliti kata-kata, laporan terinci dari pandangan responden dan melakukan studi pada situasi yang alam
+  -penelitian kuantitatif adalah penelitian yang datanya merupakan data kuantitatif sehingga analisis datanya menggunakan analisis kuantitatif (inferensi)
+
+ berdasarkan tingkat penjelasannya
+ -penelitian deskriptif : penelitian yang dilakukan untuk mengetahui nilai variabel mandiri, baik satu variabel atau lebih (independen) tanpa membuat perbandingan, atau menghubungkan antara varibel yang satu dengan yang lain
+ -penelitian komparatif : penelitian yang bersifat membandingkan.
+ -penelitian asosiatif : enelitian yang bertujuan untuk mengetahui hubungan dua variabel atau lebih.
+
+ berdasarkan keumuman penggunaan
+ -Penelitian deskriptif adalah penelitian yang berusaha mendeskripsikan suatu gejala, peristiwa, kejadian yang terjadi saat sekarang. Penelitian deskriptif memusatkan perhatian kepada masalah-masalah actual sebagaimana adanya pada saat penelitian berlangsung. Melalui penelitian deskriptif, peneliti berusaha mendeskripsikan peristiwa dan kejadian yang menjadi pusat perhatian tanpa memberikan perlakukan khusus terhadap peristiwa tersebut. Variabel yang diteliti bisa tunggal (satu variabel) bisa juga lebih dan satu variabel
+ -Penelitian Studi kasus pada dasarnya mempelajari secara intensif seseorang individu atau kelompok yang dipandang mengalami kasus tertentu. Misalnya, mempelajari secara khusus kepala sekolah yang tidak disiplin dalam bekerja. Terhadap kasus tersebut peneliti mempelajarinya secara mendalam dan dalam kurun waktu cukup lama. Mendalam, artinya mengungkap semua variable yang dapat menyebabkan terjadinya kasus tersebut dari berbagai aspek
+ -Penelitian survei cukup banyak digunakan untuk pemecahan masalah-masalah pendidikan termasuk kepentingan perumusan kebijaksanaan pendidikan. Tujuan utamanya adalah mengumpulkan informasi tentang variabel dari sekolompok obyek (populasi). Survei dengan cakupan seluruh populasi (obyek) disebut sensus. Sedangkan survei yang mempelajari sebagian populasi dinamakan sampel survei.
+ -Studi korelasi bertujuan menguji hipotesis, dilakukan dengan cara mengukur sejumlah variabel dan menghitung koefisien korelasi antara variabel-variabel tersebut, agar dapat ditentukan variabel-variabel mana yang berkorelasi.
+ -Penelitian eksperimen dapat didefinisikan sebagai metode sistematis guna membangun hubungan yang mengandung fenomena sebab akibat. Penelitian eksperimen merupakan metode inti dari model penelitian yang menggunakan pendekatan kuantitatif. Dalam metode penelitian eksperimen, peneliti harus melakukan tiga persyaratan yaitu kegiatan mengontrol, kegiatan memanipulasi, dan observasi.
+ -Penelitian tindakan adalah suatu bentuk penelitian refleleksi-diri yang dilakukan oleh para partisipan dalam situasi-situasi sosial (termasuk pendidikan) untuk memperbaiki praktek yang dilakukan sendiri. Dengan demikian akan diperoleh pemahaman mengenai praktek tersebut dan situasi di mana praktek tersebut dilaksanakan. Terdapat dua esensi penelitian tindakan yaitu perbaikan dan keterlibatan. Hal ini mengarahkan tujuan penelitian tindakan ke dalam tiga area yaitu: (1) Untuk memperbaiki praktek; (2) Untuk pengembangan profesional dalam arti meningkatkan pemahaman/kemampuan para praktisi terhadap praktek yang dilaksanakannya; (3) Untuk memperbaiki keadaan atau situasi di mana praktek tersebut dilaksanakan.
+ -Penelitian dan Pengembangan atau Research and Development (R&D) adalah strategi atau metode penelitian yang cukup ampuh untuk memperbaiki praktek. Yang dimaksud dengan Penelitian dan Pengembangan atau Research and Development (R&D) adalah rangkaian proses atau langkah-langkah dalam rangka mengembangkan suatu produk baru atau menyempurnakan produk yang telah ada agar dapat dipertanggung jawabkan. Produk tersebut tidak selalu berbentuk benda atau perangkat keras (hardware), seperti buku, modul, alat bantu pembelajaran di kelas atau di laboratorium, tetapi bisa juga perangkat lunak (software), seperti program komputer untuk pengolahan data, pembelajaran di kelas, perpustakaan atau laboratorium, ataupun model-model pendidikan, pembelajaran, pelatihan, bimbingan, evaluasi, sistem manajemen, dan lain-lain.
+
+########################################################################
+
+Teknik pengambilan sampel
+ -probability sampling : Probability sampling adalah teknik sampling yang memberikan peluang yang sama bagi setiap unsur (anggota) populasi untuk dipilih menjadi anggota sampel.
+  -Simple random sampling adalah teknik untuk mendapatkan sampel yang langsung dilakukan pada unit sampling. Maka setiap unit sampling sebagai unsur populasi yang terpencil memperoleh peluang yang sama untuk menjadi sampel atau untuk mewakili populasinya. Cara tersebut dilakukan bila anggota populasi dianggap homogen.
+  -Proportionate Stratified Random Sampling biasa digunakan pada populasi yang mempunyai susunan bertingkat atau berlapis-lapis. Teknik ini digunakan bila populasi mempunyai anggota/unsur yang tidak homogen dan berstrata secara proporsional.
+  -Disproportionate Stratified Random Sampling digunakan untuk menentukan jumlah sampel bila populasinya berstrata tetapi kurang proporsional.
+  -Cluster Sampling (Area Sampling) juga cluster random sampling. Teknik ini digunakan bilamana populasi tidak terdiri dari individu-individu, melainkan terdiri dari kelompok-kelompok individu atau cluster. Teknik sampling daerah digunakan untuk menentukan sampel bila objek yang akan diteliti atau sumber data sangat luas.
+  -
+  
+ -nonprobability sampling : Nonprobability sampling adalah teknik yang tidak memberi peluang/kesempatan yang sama bagi setiap unsur atau anggota populasi untuk dipilih menjadi sampel.
+  -Sampling sistematis adalah teknik penentuan sampel berdasarkan urutan dari anggota populasi yang telah diberi nomor urut.
+  -Sampling kuota adalah teknik untuk menentukan sampel dari populasi yang mempunyai ciri-ciri tertentu sampai jumlah (kuota) yang diinginkan. Teknik ini jumlah populasi tidak diperhitungkan akan tetapi diklasifikasikan dalam beberapa kelompok. Sampel diambil dengan memberikan jatah atau quorum tertentu terhadap kelompok. Pengumpulan data dilakukan langsung pada unit sampling. Setelah jatah terpenuhi, maka pengumpulan data dihentikan.
+  -Sampling aksidental adalah teknik penentuan sampel berdasarkan kebetulan, yaitu siapa saja yang secara kebetulan bertemu dengan peneliti dapat digunakan sebagai sampel, bila dipandang orang yang kebetulan ditemui itu sesuai sebagai sumber data.
+  -Sampling purposive adalah teknik penentuan sampel dengan pertimbangan tertentu. Pemilihan sekelompok subjek dalam purposive sampling, didasarkan atas ciri-ciri tertentu yang dipandang mempunyai sangkut paut yang erat dengan ciri-ciri populasi yang sudah diketahui sebelumnya. Maka dengan kata lain, unit sampel yang dihubungi disesuaikan dengan kriteria-kriteria tertentu yang diterapkan berdasarkan tujuan penelitian atau permasalahan penelitian.
+  -Sampling jenuh adalah teknik penentuan sampel bila semua anggota populasi digunakan sebagai sampel. Hal ini sering dilakukan bila jumlah populasinya relatif kecil, kurang dari 30 orang. Sampel jenuh disebut juga dengan istilah sensus, dimana semua anggota populasi dijadikan sampel.
+  -Snowball sampling adalah teknik penentuan sampel yang awal mula jumlahnya kecil, kemudian sampel ini disuruh memilih teman-temannya untuk dijadikan sampel. Dan begitu seterusnya, sehingga jumlah sampel makin lama makin banyak. Ibaratkan sebuah bola salju yang menggelinding, makin lama semakin besar. Pada penelitian kualitatif banyak menggunakan sampel purposive dan snowball.
+
+
+########################################################################
+
+Jenis data
+ - Data Primer : merupakan data yang didapatkan atau dikumpulkan melalui studi-studi sebelumnya yang diterbitkan oleh ebrbagai instansi lain. Dalam jenis ini biasanya sumbernya tidak langsung yang berupa arsip-arsip resmi.
+ - Data Sekunder : merupakan data yang didapatkan dengan cara sendiri-sendiri atau perorangan yang secara langsung dari objek yang akan diteliti untuk kepentingan studi, biasanya berupan observasi atau interview.
+
+3 teknik yang digunakan dalam metode pengumpulan data
+ (1)Observasi adalah salah satu teknik pengumpulan data yang tidak hanya mengukur sikap dari responden seperti wawancara dan angket, namun dalam observasi dapat digunakan untuk merekam berbagai fenomena yang terjadi seperti situasi dan kondisi yang ada. Teknik observasi digunakan bila penelitian ditujukan untuk mempelajari perilaku manusia, proses kerja, gejala-gejala alam dan dilakukan pada responden yang tidak terlalu besar.
+ Teknik observasi dibedakan menjadi 2, yaitu:
+   - Participant Observation. Dalam teknik Participant Observation, si peneliti secara langsung terlibat dalam kegiatan sehari-hari orang atau situasi yang diamati sebagai sumber data.
+   - Teknik ini kebalikan dari teknik non participant Observation, yaitu si peneliti tidak ikut secara langsung dalam kegiatan atau proses yang sedang diamati.
+
+ (2) Wawancara merupakan teknik pengumpulan data yang dilakukan dengan bertatap muka dan tanya jawab langsung antara peneliti dan narasumber atau sumber data. Pada penelitian besar, biasanya wawancara dilakukan sebagai studi pendahuluan karena tidak mungkin untuk menggunakan wawncara pada 1000 responden. Sedangkan pada penelitian kecil, wawancaara dapat diterapkan sebagai teknik pengumpulan data.
+ Wawancara terbagi menjadi 2, yaitu wawancara terstruktur dan tidak terstruktur.
+  - Wawancara terstruktur yaitu peneliti telah mengetahui dengan pasti tentang informasi yang ingin digali dari responden sehingga daftar pertanyaan sudah dibuat secara sistematis. Seperti menyiapkan alat yang akan digunakan, yaitu tape recorder, camera photo dan material lain yang dapat membantu kelancaran wawancara.
+  - Wawancara tidak terstruktur yaitu sebuah penelitian bebas dalam arti peneliti tidak menggunakan pedoman wawancara yang berisi pertanyaan yang akan diajukan secara spesifik, dalam wawancara ini hanya memuat poin-poin penting masalah yang ingin digali dari responden.
+
+ 
+ (3) Angket atau kuisioner adalah teknik pengumpulan data yang dilakukan dengan cara memberikan seperangkat pertanyaan kepada responden untuk dijawabnya. Dalam prinsip penulisan angket terdapat beberapa faktor yang harus diperhatikan, seperti :.
+  - Isi dan tujuan pertanyaan
+  - Bahasa yang digunakan harus sesuai dengan kemampuan yang dimiliki oleh responden.
+  - Tipe dan bentuk pertanyaan yang diberikan merupakan pertanyaan terbuka atau tertutup. Jika terbuka maka jawaban yang diberikan bebas, jika tertutup maka responden hanya diminta untuk memilih jawaban yang telah disediakan.
+   
+ 
+ 
